@@ -55,7 +55,24 @@
     padding: 10px 20px; 
 
 }
-.o{
-    width: 30px;
+.card{
+    border: none;
+    background-color:#99ffcc;
 }
+
+
+.buy-now-buttons{
+    background-color:#000066;
+    border-radius: 12px;
+    border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px
+  
+}
+
+
 
