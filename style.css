@@ -22,3 +22,40 @@
 .container{
     margin-bottom: 100px;
 }
+
+/* .one.two.three{
+     padding: 10px 30px;       (  Apply Css at a time in all three classes )
+                                     (If you want)
+}*/
+.one{
+    
+    background-color:  #ff1a75;
+    border-radius: 12px;
+    border: none;
+    color: white;
+    padding: 10px 20px; 
+
+    
+
+
+}
+.two{
+    background-color:  #ffff00 ;
+    border-radius: 12px;
+    border: none;
+    color: white;
+    padding: 10px 20px; 
+
+}
+.three{
+    background-color:  #0066ff;
+    border-radius: 12px;
+    border: none;
+    color: white;
+    padding: 10px 20px; 
+
+}
+.o{
+    width: 30px;
+}
+
