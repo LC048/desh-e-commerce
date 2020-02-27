@@ -57,7 +57,8 @@
 }
 .card{
     border: none;
-    background-color:#99ffcc;
+    background-color:beige;
+
 }
 
 
@@ -73,6 +74,16 @@
   font-size: 16px
   
 }
+.card-footer
+{
 
+    border-top: none;
+}
 
+#back-slide{
+    height: 500px;
+}
 
+footer{
+    text-align: center;
+}
